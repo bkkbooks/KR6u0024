@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0024/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 延壽命經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2888.xml
+    old_id: T85n2888
+hash: sha256:ac41cd4a77a72946336dd64a8fe04f3f21cf0683eb4fec3084da558da4ffab85

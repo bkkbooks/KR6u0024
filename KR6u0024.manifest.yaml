@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6u0024_000.yaml, hash: 'sha256:ac41cd4a77a72946336dd64a8fe04f3f21cf0683eb4fec3084da558da4ffab85'}
-  - {seq: 1, filename: KR6u0024_001.yaml, hash: 'sha256:e7a091f9f2bb4d8f9598c29f10437c7564b66a68ba73834616375dd0ba7066fa'}
+  - {seq: 1, filename: KR6u0024_001.yaml, hash: 'sha256:94b93929e143556f83c14a14b7f55e25a77157b5b7168f95642529fe610c48e2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0024_001.markers.yaml, hash: 'sha256:0f5f9386b75459af8ae38456646ed6cc664779febc002d3060ed5c15067daba0'}
+  - {seq: 0, role: markers, filename: assets/KR6u0024_000.markers.yaml, hash: 'sha256:bf6147b83c3c555f8d3f274d39ff0ba7582ecab47e98f0a3b6885d88cabcae18'}
+  - {seq: 1, role: markers, filename: assets/KR6u0024_001.markers.yaml, hash: 'sha256:73db61fad6fb407d629db81e9a6c36a4fbc542ca9630901884bfa98a8f082640'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說延壽命經
   type: juan
   level: 1
-hash: sha256:012211c4c9c49b1291ff1760db7881fe44d8b398840cc5504947c2485c7219f0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:af1041798d0cf87f3b71bd873b3fba5627cdbf19f22171f8cfabfc866f9e9700
